@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D8DC178C-9CBE-4D9C-91DD-7C3DC0CDED54"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6B93D623-B5EA-4D78-A1DD-421A1A400AAB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mlLibraryDemo/models/Yolov3Detector.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "predict(input:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DF7B2336-85E3-4C65-97BC-43392DC3BA2E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mlLibraryDemo/models/Yolov3Detector.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "predict(input:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2EFA7BFA-2AEA-4FA7-A12C-5AD5E8A4A14B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mlLibraryDemo/models/Yolov3Detector.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "predict(input:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2EFA7BFA-2AEA-4FA7-A12C-5AD5E8A4A14B - a5c037c128560fb9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mlLibraryDemo.Yolov3Detector.predict(input: __C.CGImageRef) -&gt; Swift.Optional&lt;__C.CGImageRef&gt;"
+                  moduleName = "mlLibraryDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ryou/Documents/Xcode/Xcode_Projects/mlLibraryDemo/mlLibraryDemo/models/Yolov3Detector.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36">
+               </Location>
+               <Location
+                  uuid = "2EFA7BFA-2AEA-4FA7-A12C-5AD5E8A4A14B - a5c037c128560fb9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mlLibraryDemo.Yolov3Detector.predict(input: __C.CGImageRef) -&gt; Swift.Optional&lt;__C.CGImageRef&gt;"
+                  moduleName = "mlLibraryDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ryou/Documents/Xcode/Xcode_Projects/mlLibraryDemo/mlLibraryDemo/models/Yolov3Detector.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A4EF896B-CF5E-49B5-9835-BE59A24285F7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mlLibraryDemo/models/Yolov3Detector.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "predict(input:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "570F0D80-883B-417C-8FCA-F6DED3E98F99"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mlLibraryDemo/models/SemasegPredictor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "predict(input:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB2F4F63-2F99-45E3-9431-0437E1476B01"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mlLibraryDemo/models/DepthPredictor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "predict(input:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A53E11CC-2B1D-4B88-BA3E-1246A6EE903A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mlLibraryDemo/models/DepthPredictor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "predict(input:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CBD20F57-59AD-4113-877A-B096AA67C4B3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mlLibraryDemo/models/DepthPredictor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "predict(input:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CBD20F57-59AD-4113-877A-B096AA67C4B3 - e559d6b30f89b8f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mlLibraryDemo.DepthPredictor.predict(input: __C.CGImageRef) -&gt; Swift.Optional&lt;__C.CGImageRef&gt;"
+                  moduleName = "mlLibraryDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ryou/Documents/Xcode/Xcode_Projects/mlLibraryDemo/mlLibraryDemo/models/DepthPredictor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31">
+               </Location>
+               <Location
+                  uuid = "CBD20F57-59AD-4113-877A-B096AA67C4B3 - e559d6b30f89b8f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mlLibraryDemo.DepthPredictor.predict(input: __C.CGImageRef) -&gt; Swift.Optional&lt;__C.CGImageRef&gt;"
+                  moduleName = "mlLibraryDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ryou/Documents/Xcode/Xcode_Projects/mlLibraryDemo/mlLibraryDemo/models/DepthPredictor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
